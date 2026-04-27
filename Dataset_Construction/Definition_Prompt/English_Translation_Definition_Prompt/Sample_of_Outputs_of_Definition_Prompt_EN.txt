@@ -1,0 +1,67 @@
+Word: αγένεια (ageneia)
+POS: noun (feminine)
+
+1st Sense (Behavioural Characteristic or Attribute – Category 6) 
+Definition: A social trait demonstrating a lack of manners and respect towards others, as it violates generally accepted rules of behaviour; used in everyday and professional discourse to stigmatise an undesirable attitude. 
+<<rudeness: persistent lack of manners and respect for social norms>>
+Examples:
+"Rudeness is considered annoying and reprehensible, but it is not perceived as a serious problem."
+"Rudeness is pervasive and sometimes infiltrates the workplace."
+"The culture of rudeness also shapes the terms of public debate."
+
+2nd Sense (Event / Result of an Act – Category 4) 
+Definition: An isolated improper incident or remark that offends the interlocutor because it deviates from elementary rules of politeness; occurs particularly in the plural to indicate repeated insults. 
+<<discourtesy: single rude act or utterance that breaks basic politeness>>
+Examples:
+"It was a great discourtesy for you to leave without a single 'thank you'."
+"Let's bring out our discourtesies to see whose is bigger."
+"The discourtesies committed by the Prime Minister towards the minority are obvious."
+================================================================================================================================
+
+Word: αδηφαγία (adifagia) 
+POS: noun (feminine)
+
+1st Sense (Repeated Act – Category 5) 
+Definition: The habit of repeated, uncontrolled consumption of a large quantity of food, recognised as an eating disorder in medical discourse. 
+<<binge eating disorder: repeated episodes of uncontrollable overeating>>
+Examples:
+"Binge eating controls my life; I cannot stop eating."
+"A person with a binge eating disorder frequently consumes unusually large quantities of food without control."
+"Binge eating is characterised by repeated large meals in a short period of time."
+
+2nd Sense (Behavioural Characteristic or Attribute – Category 6) 
+Definition: A trait of a person or collective entity that displays an insatiable desire for resources, wealth, or power, used in a critical socio-political context. 
+<<insatiable greed: relentless craving for wealth or resources>>
+Examples:
+"The insatiable greed of wind energy corporate groups must stop."
+"The insatiable greed of capital threatens to return us to the pre-'Sputnik' era."
+"The insatiable greed of the media alters the role models they project."
+
+3rd Sense (Event / Result of an Act – Category 4) 
+Definition: An isolated incident of excessive consumption or predatory action, referred to primarily in the plural ("adifagies") to emphasise specific excesses. 
+<<acts of rapacity: discrete episodes of excessive consumption or grasping>>
+Examples:
+"About half of the patients recover, cutting their acts of binge eating by half."
+"The 'acts of rapacity' of a society without cohesion lead to barbaric individualisation."
+"An end to the banks' acts of rapacity, warns the borrowers' association."
+====================================================================================================================================
+
+Word: αβουλησία (aboulia / lack of willpower)
+POS: noun (feminine)
+
+1st Sense (Condition – Category 3)
+Definition: A psychopathological state of diminished motivation and difficulty in initiating actions or making decisions, appearing as a symptom of neurological or psychiatric disorders.
+<<aboulia: pathological state of diminished volition and initiative>>
+Examples
+"Aboulia: they get up late, go to sleep early, remain inactive, and show diminished interest in self-care."
+"Negative symptoms include aboulia, alogia, and social withdrawal."
+"The doctor emphasized that severe aboulia burdens the quality of life, along with reduced self-care and low motivation."
+
+2nd Sense (Behavioural Trait – Category 6)
+Definition: An enduring personality trait showing a persistent lack of decisiveness, passivity, and hesitation in taking initiative.
+<<lack of willpower / indecisiveness: enduring character trait marked by indecision and passivity>>
+Examples
+"The sense of indecisiveness keeps the people tethered to misery."
+"EU policies, moving in a climate of indecision and turning a blind eye, remain asymmetrical to the demands of the times."
+"He won't be able to achieve anything in his life because of his lack of willpower."
+
