@@ -1,1 +1,1 @@
-# From-Form-to-Meaning-Interlingua-Sense-Alignment-of-Offensive-Language-with-LLMs
+# From_Form_to_Meaning:_Interlingua-Sense_Alignment_of_Offensive_Language_with_LLMs
