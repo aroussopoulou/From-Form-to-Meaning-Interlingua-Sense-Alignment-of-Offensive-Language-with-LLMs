@@ -64,9 +64,13 @@ The repository uses separate licenses for code and research materials.
 
 The source code in this repository is licensed under the MIT License.
 
+See [`LICENSE`](LICENSE)
+
 **Data and research materials**
 
 The lexicon files, prompts, CSV/JSONL files, alignment outputs, and other non-code research materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+See [`LICENSE-DATA.md`](LICENSE-DATA.md).
 
 **Third-party materials**
 
