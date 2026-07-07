@@ -1,4 +1,4 @@
-# From Form to Meaning: Interlingua Sense-Alignment of Offensive Language with LLMs
+# From Form to Meaning: Interlingual Sense-Alignment of Offensive Language with LLMs
 
 This repository contains the code, prompts, and supporting materials for the paper: **From Form to Meaning: Interlingua Sense-Alignment of Offensive Language with LLMs**
 
